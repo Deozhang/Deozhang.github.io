@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>帝哥陪你学编程</title>
     <link>https://deozhang.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on 帝哥陪你学编程</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-cn</language>
     <lastBuildDate>Thu, 02 Jan 2020 10:35:57 +0800</lastBuildDate>
     
 	<atom:link href="https://deozhang.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,7 @@
       
       <guid>https://deozhang.github.io/post/aboutme/</guid>
       <description>关于我  你好，我是帝哥，欢迎来到我的博客。 博主信息 安徽农业大学计算机科学与技术专业的一名大四学生，主要学习Java开发技术，开这个博客主要是想记录一些自己学习过程中的收获，并以此来收获一些志同道合的朋友。
- 如果有想要和我取得沟通，或者有问题想要问我的朋友，可以通过公众号[帝哥陪你学编程]与我直接的取得联系。
+ 如果有想要和我取得沟通，或者有问题想要问我的朋友，可以通过公众号帝哥陪你学编程与我直接的取得联系。
 我的账号 B站账号：帝哥陪你学编程
 西瓜视频：帝哥陪你学编程
 公众号：帝哥陪你学编程</description>
